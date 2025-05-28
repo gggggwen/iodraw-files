@@ -13,6 +13,9 @@
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-6" value="Repo B&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="585" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ET0zdBZGyPeqxJ-EuiXX-7" target="ET0zdBZGyPeqxJ-EuiXX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-7" value="Repo C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="120" height="50" as="geometry" />
         </mxCell>
@@ -39,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-14" value="Repo D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="670" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
