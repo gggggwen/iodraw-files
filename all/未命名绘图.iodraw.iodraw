@@ -10,13 +10,13 @@
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ET0zdBZGyPeqxJ-EuiXX-6" target="ET0zdBZGyPeqxJ-EuiXX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-6" value="Repo B&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-6" value="Repo B&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="80" y="585" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ET0zdBZGyPeqxJ-EuiXX-7" target="ET0zdBZGyPeqxJ-EuiXX-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-7" value="Repo C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-7" value="Repo C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-8" value="Repo D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-14" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-14" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ET0zdBZGyPeqxJ-EuiXX-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ET0zdBZGyPeqxJ-EuiXX-2" target="ET0zdBZGyPeqxJ-EuiXX-17">
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-17" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ET0zdBZGyPeqxJ-EuiXX-17" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="585" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
