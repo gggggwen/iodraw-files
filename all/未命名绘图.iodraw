@@ -7,6 +7,15 @@
         <mxCell id="72SeM-QpH_hZ4E79oL7I-1" value="Flashlight" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=70;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="490" width="440" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-3" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-4" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-3">
+          <mxGeometry width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-5" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-3">
+          <mxGeometry x="50" y="5" width="45" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
