@@ -106,14 +106,14 @@
             <mxPoint x="360" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-67" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-67" value="CPU" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="950" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-68" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="960" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="830" width="110" height="30" as="geometry" />
+          <mxGeometry x="565" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="960" width="110" height="30" as="geometry" />
