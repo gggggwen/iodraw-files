@@ -106,6 +106,9 @@
             <mxPoint x="360" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
