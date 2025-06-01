@@ -68,7 +68,10 @@
           <mxGeometry x="108" y="85" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-52" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;NCCL&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="550" y="360" width="84" height="20" as="geometry" />
+          <mxGeometry x="363" y="390" width="84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-53" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
