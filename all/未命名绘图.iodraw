@@ -113,7 +113,7 @@
           <mxGeometry x="220" y="1030" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="565" y="565" width="110" height="30" as="geometry" />
+          <mxGeometry x="565" y="570" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="605" width="110" height="30" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="420" y="1000" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-72" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="390" y="555" width="110" height="30" as="geometry" />
+          <mxGeometry x="390" y="540" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
