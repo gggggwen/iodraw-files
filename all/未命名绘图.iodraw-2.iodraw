@@ -17,7 +17,7 @@
           <mxGeometry x="565" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-10" value="CMake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="75" height="40" as="geometry" />
+          <mxGeometry x="160" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-11" value="iproute2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="400" width="90" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="52.5" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-15" value="g++" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="160" y="350" width="75" height="40" as="geometry" />
+          <mxGeometry x="160" y="350" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-16" value="ninja-build" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="50" y="460" width="95" height="40" as="geometry" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-26" value="libcap-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-27" value="pkg-config" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
