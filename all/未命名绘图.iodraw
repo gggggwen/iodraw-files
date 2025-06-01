@@ -124,11 +124,11 @@
         <mxCell id="72SeM-QpH_hZ4E79oL7I-72" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-74" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-74" value="imgclass" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="1040" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-75" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1050" width="110" height="30" as="geometry" />
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-75" value="lm" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1020" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-76" value="asr" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="1060" width="110" height="30" as="geometry" />
