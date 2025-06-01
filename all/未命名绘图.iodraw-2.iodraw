@@ -50,7 +50,7 @@
           <mxGeometry x="250" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-27" value="libasio-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="52.5" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
