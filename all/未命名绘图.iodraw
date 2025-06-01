@@ -10,7 +10,7 @@
         <mxCell id="72SeM-QpH_hZ4E79oL7I-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#DDA853;fillColor=#DDA853;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="495" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-7" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#9673a6;fillColor=#DDA853;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-7" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#9673a6;fillColor=#E3D095;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="495" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-40" value="Denpendency Container 1" style="swimlane;startSize=23;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;textShadow=0;" vertex="1" parent="1">
