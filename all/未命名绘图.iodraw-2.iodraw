@@ -7,7 +7,7 @@
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="290" width="470" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="290" width="350" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;必要依赖&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-21" value="liblz4-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-23" value="libjsoncpp-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-23" value="libjsoncpp-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-25" value="pkg-config" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
