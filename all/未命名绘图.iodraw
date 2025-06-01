@@ -139,7 +139,7 @@
         <mxCell id="72SeM-QpH_hZ4E79oL7I-84" value="&lt;b&gt;Core&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Applications%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22495%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=none;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="415" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-85" value="&lt;b&gt;Libraries&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-85" value="&lt;b&gt;Libraries&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
