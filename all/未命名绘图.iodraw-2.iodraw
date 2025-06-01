@@ -61,8 +61,11 @@
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-31" value="&lt;pre style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;libmbedtls-dev&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-32" value="&lt;pre style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;libmbedtls-dev&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-32" value="&lt;pre style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;liblzo2-dev&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="60" width="116.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-33" value="&lt;pre style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;liblzo2-dev&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="483.5" y="70" width="116.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
