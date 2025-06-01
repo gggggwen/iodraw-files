@@ -49,8 +49,8 @@
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-21" value="liblz4-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="295" y="460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-23" value="libxxhash-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-70" width="120" height="50" as="geometry" />
+        <mxCell id="Jy2PA_Qq1pM91OoCxvzb-23" value="libjsoncpp-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
