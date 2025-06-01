@@ -4,151 +4,151 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-1" value="Flashlight" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=70;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-1" value="Flashlight" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=70;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;dashed=1;dashPattern=1 1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="510" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="210" y="495" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-7" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-7" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="495" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-40" value="Denpendency Container 1" style="swimlane;startSize=23;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-40" value="Denpendency Container 1" style="swimlane;startSize=23;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="345" y="310" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-24" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;stb&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-24" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;stb&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="10" y="30" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-26" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;MPI&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-26" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;MPI&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="10" y="60" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-10" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;ArrayFire&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-10" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;ArrayFire&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="110" y="30" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-30" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;cuDNN&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-30" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;cuDNN&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="110" y="60" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-39" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;CUDA&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-39" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;CUDA&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="110" y="90" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-33" value="oneDNN" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-33" value="oneDNN" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="10" y="90" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-32" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;gloo&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20quote-cjk-patch%2C%20Inter%2C%20system-ui%2C%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Roboto%2C%20%26amp%3Bquot%3BNoto%20Sans%26amp%3Bquot%3B%2C%20Ubuntu%2C%20Cantarell%2C%20%26amp%3Bquot%3BHelvetica%20Neue%26amp%3Bquot%3B%2C%20Oxygen%2C%20%26amp%3Bquot%3BOpen%20Sans%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2011px%3B%20text-align%3A%20start%3B%20white-space-collapse%3A%20preserve%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%20font-size%3A%2011px%3B%26quot%3B%26gt%3Bstb%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22690%22%20width%3D%2284%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-32" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;gloo&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20quote-cjk-patch%2C%20Inter%2C%20system-ui%2C%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26amp%3Bquot%3BSegoe%20UI%26amp%3Bquot%3B%2C%20Roboto%2C%20%26amp%3Bquot%3BNoto%20Sans%26amp%3Bquot%3B%2C%20Ubuntu%2C%20Cantarell%2C%20%26amp%3Bquot%3BHelvetica%20Neue%26amp%3Bquot%3B%2C%20Oxygen%2C%20%26amp%3Bquot%3BOpen%20Sans%26amp%3Bquot%3B%2C%20sans-serif%3B%20font-size%3A%2011px%3B%20text-align%3A%20start%3B%20white-space-collapse%3A%20preserve%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%20font-size%3A%2011px%3B%26quot%3B%26gt%3Bstb%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22690%22%20width%3D%2284%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="10" y="120" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-27" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;cereal&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-27" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;cereal&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry x="110" y="120" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-50" value="Denpendency Container 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-50" value="Denpendency Container 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-30" y="525" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-45" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;libsndfile&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-45" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;libsndfile&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
           <mxGeometry x="8" y="30" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-46" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;Glog&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-46" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;Glog&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
           <mxGeometry x="108" y="40" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-47" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Gflags&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-47" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Gflags&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
           <mxGeometry x="8" y="70" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-48" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;BLAS&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-48" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;BLAS&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-50">
           <mxGeometry x="108" y="85" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-52" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;NCCL&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-52" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;NCCL&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="720" y="545" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-34" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;cub(opt)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-34" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;cub(opt)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="720" y="570" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-56" value="&lt;b&gt;tests&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-56" value="&lt;b&gt;tests&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="680" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-58" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Google Test&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-58" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Google Test&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="780" width="87" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-6" target="72SeM-QpH_hZ4E79oL7I-50">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-6" target="72SeM-QpH_hZ4E79oL7I-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="640" as="sourcePoint" />
             <mxPoint x="289.52" y="867.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-7" target="72SeM-QpH_hZ4E79oL7I-40">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-7" target="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="720" as="sourcePoint" />
             <mxPoint x="360" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.988;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.988;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="678.5600000000002" y="555.3499999999999" as="sourcePoint" />
             <mxPoint x="720.0000000000048" y="554.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-8" target="72SeM-QpH_hZ4E79oL7I-34">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-8" target="72SeM-QpH_hZ4E79oL7I-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="615" as="sourcePoint" />
             <mxPoint x="690" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="72SeM-QpH_hZ4E79oL7I-8">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" target="72SeM-QpH_hZ4E79oL7I-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="615" as="sourcePoint" />
             <mxPoint x="720" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="560" y="495" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-56" target="72SeM-QpH_hZ4E79oL7I-58">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-56" target="72SeM-QpH_hZ4E79oL7I-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="860" as="sourcePoint" />
             <mxPoint x="360" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-68" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-68" value="Any" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="220" y="1030" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="565" y="550" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="395" y="585" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-71" value="CPU" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-71" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="395" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-72" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-72" value="CUDA" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="395" y="540" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-74" value="imgclass" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-74" value="imgclass" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="230" y="1040" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-76" value="asr" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-76" value="asr" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="430" y="1060" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-77" value="all" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-77" value="all" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="525" width="95" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-79" value="lm" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-79" value="lm" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="560" width="95" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-80" value="asr" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-80" value="asr" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="595" width="95" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-81" value="imgclass" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-81" value="imgclass" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="630" width="95" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-82" value="CPU" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-82" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="565" y="610" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-83" value="&lt;b&gt;Applications&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-83" value="&lt;b&gt;Applications&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="240" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-84" value="&lt;b&gt;Core&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Applications%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22495%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-84" value="&lt;b&gt;Core&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Applications%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22495%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="415" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-85" value="&lt;b&gt;Libraries&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-85" value="&lt;b&gt;Libraries&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="590" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
