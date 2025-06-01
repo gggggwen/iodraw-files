@@ -106,13 +106,13 @@
             <mxPoint x="360" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="565" y="550" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-70" value="Any" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="395" y="585" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-71" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-71" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="395" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-72" value="CUDA" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
@@ -130,7 +130,7 @@
         <mxCell id="72SeM-QpH_hZ4E79oL7I-81" value="imgclass" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="630" width="95" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-82" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-82" value="CPU" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="565" y="610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-83" value="&lt;b&gt;Applications&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
