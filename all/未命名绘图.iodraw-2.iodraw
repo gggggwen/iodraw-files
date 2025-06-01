@@ -17,13 +17,13 @@
           <mxGeometry x="565" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-10" value="CMake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="205" y="400" width="90" height="40" as="geometry" />
+          <mxGeometry x="355" y="350" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-11" value="iproute2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="95" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-12" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;libcap-dev&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="250" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-13" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 11px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;libasio-dev&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="350" width="90" height="40" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="160" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-21" value="liblz4-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="330" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="295" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
