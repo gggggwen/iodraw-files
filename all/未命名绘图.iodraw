@@ -97,7 +97,7 @@
             <mxPoint x="720" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-8" value="Libraries" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+        <mxCell id="72SeM-QpH_hZ4E79oL7I-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-56" target="72SeM-QpH_hZ4E79oL7I-58">
@@ -107,10 +107,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-67" value="CPU" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="950" width="110" height="30" as="geometry" />
+          <mxGeometry x="565" y="605" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-68" value="Any" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="960" width="110" height="30" as="geometry" />
+          <mxGeometry x="220" y="1030" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-69" value="CUDA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="565" y="540" width="110" height="30" as="geometry" />
