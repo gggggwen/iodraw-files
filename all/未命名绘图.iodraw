@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="72SeM-QpH_hZ4E79oL7I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="72SeM-QpH_hZ4E79oL7I-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-1" value="Flashlight" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=70;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="480" width="440" height="230" as="geometry" />
+          <mxGeometry x="150" y="480" width="460" height="230" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-3" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="570" y="350" width="100" height="100" as="geometry" />
