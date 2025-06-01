@@ -35,10 +35,10 @@
           <mxGeometry x="460" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-21" value="liblz4-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-23" value="libjsoncpp-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="120" height="50" as="geometry" />
+          <mxGeometry x="220" y="585" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-25" value="pkg-config" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="250" y="400" width="80" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="52.5" y="350" width="87.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jy2PA_Qq1pM91OoCxvzb-28" value="libssl-dev" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
