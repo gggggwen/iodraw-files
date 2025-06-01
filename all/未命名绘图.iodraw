@@ -59,10 +59,10 @@
           <mxGeometry y="30" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-26" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;MPI&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
-          <mxGeometry x="38" y="80" width="84" height="20" as="geometry" />
+          <mxGeometry x="20" y="60" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-10" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;ArrayFire&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
-          <mxGeometry x="100" y="60" width="84" height="20" as="geometry" />
+          <mxGeometry x="110" y="30" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="72SeM-QpH_hZ4E79oL7I-30" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 11px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;cuDNN&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="72SeM-QpH_hZ4E79oL7I-40">
           <mxGeometry y="110" width="84" height="20" as="geometry" />
