@@ -126,6 +126,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-63" value="系统包管理" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="330" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
