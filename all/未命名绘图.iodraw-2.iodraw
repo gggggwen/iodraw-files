@@ -138,11 +138,17 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-67" value="修改构建代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1005" y="400" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="06tJhJ8Tfsie9geI-JFb-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="397.5" as="sourcePoint" />
             <mxPoint x="1160" y="347.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="317.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
