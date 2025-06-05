@@ -28,7 +28,7 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;添加&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-18" value="描述 主页 许可证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-18" value="描述 主页 许可证 库类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="40" width="460" height="40" as="geometry" />
         </mxCell>
       </root>
