@@ -55,8 +55,8 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-34" value="仓库地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="480" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-35" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;静态配置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="226" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-35" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;静态配置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
