@@ -138,6 +138,12 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-67" value="修改构建代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1005" y="400" width="105" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="680" as="sourcePoint" />
+            <mxPoint x="690" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
