@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="06tJhJ8Tfsie9geI-JFb-0" target="06tJhJ8Tfsie9geI-JFb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="06tJhJ8Tfsie9geI-JFb-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="220" width="400" height="340" as="geometry" />
         </mxCell>
@@ -55,14 +58,8 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-35" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;静态配置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="390" as="sourcePoint" />
-            <mxPoint x="490" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="06tJhJ8Tfsie9geI-JFb-40" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="54" y="230" width="400" height="340" as="geometry" />
+          <mxGeometry x="480" y="220" width="400" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
