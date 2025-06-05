@@ -52,6 +52,12 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-31" value="配置选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="430" width="96" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06tJhJ8Tfsie9geI-JFb-33" value="配置选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="440" width="96" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
