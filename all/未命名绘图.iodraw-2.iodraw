@@ -40,9 +40,6 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="220" width="400" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-27" value="版本信息 依赖 配置选项 外部源 仓库地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="620" width="390" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="06tJhJ8Tfsie9geI-JFb-29" value="依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="196" y="430" width="96" height="40" as="geometry" />
         </mxCell>
@@ -52,11 +49,8 @@
         <mxCell id="06tJhJ8Tfsie9geI-JFb-31" value="配置选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="430" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="06tJhJ8Tfsie9geI-JFb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="06tJhJ8Tfsie9geI-JFb-33" value="外部源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="480" width="96" height="40" as="geometry" />
+          <mxGeometry x="130" y="480" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="06tJhJ8Tfsie9geI-JFb-34" value="仓库地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="480" width="96" height="40" as="geometry" />
